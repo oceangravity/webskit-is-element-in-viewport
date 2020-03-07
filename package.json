@@ -1,0 +1,38 @@
+{
+  "name": "webskit-is-element-in-viewport",
+  "version": "1.0.0",
+  "description": "Check if an element is in some viewport",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^5.1.0",
+    "mocha": "^7.1.0",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceangravity/webskit-is-element-in-viewport.git"
+  },
+  "keywords": [
+    "vieport"
+  ],
+  "author": "Juan Carlos Galindo Navarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oceangravity/webskit-is-element-in-viewport/issues"
+  },
+  "homepage": "https://github.com/oceangravity/webskit-is-element-in-viewport#readme"
+}
